@@ -1,7 +1,7 @@
 local DINOHUB = Instance.new("ScreenGui")
 local OPENCLOSE = Instance.new("TextButton")
 
-DINOHUB.Name = "sazx hub"
+DINOHUB.Name = Binbinvogaming Hub"
 DINOHUB.Parent = game.CoreGui
 DINOHUB.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
 
@@ -1062,7 +1062,7 @@ elseif placeId == 7449423635 then
 	Three_World = true
 end
 
-local Library = Update:Window("sazx hub ","",Enum.KeyCode.RightControl);
+local Library = Update:Window("Binbinvogaming hub ","",Enum.KeyCode.RightControl);
 local AutoFarm = Library:Tab("AutoFarm")
 local Auto = Library:Tab("Auto")
 local Stats = Library:Tab("Stats")
